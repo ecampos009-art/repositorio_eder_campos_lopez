@@ -20,21 +20,15 @@ h1,p {
     padding:15px;
   font-size:20px;
   content:center;
-  
+  align-items:center;
 }
 
-footer{
-  background:red;
-  color:white;
-  text-align:center;
-  padding: 2rem; 
-  margin-top: 2rem;
-
+.footer{
+  background-color:red;
 }
 
 .social a{
-  color:rgb(167, 114, 16);
+  color:white;
   margin: 0 1rem;
-  font-size: 1.2rem;
+  front.size: 1.2rem;
 }
-
